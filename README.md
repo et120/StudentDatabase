@@ -18,14 +18,4 @@
     4. Delete: delete students (delete by first name)
 
 
-## Peer Review
-**Name:** first last **Date/ Time:** 1/12/2024 xx:xx PM
-
-**Comment(s):**
-
-
-**Issue(s) Resolved:**
-- 
-
-
 ---
